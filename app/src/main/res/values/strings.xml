@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ride Deals</string>
+    <string name="web_app_module">OsService</string>
+    <string name="web_app_base_url">http://192.168.25.104:8080</string>
+</resources>
